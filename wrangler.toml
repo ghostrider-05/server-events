@@ -1,0 +1,7 @@
+name = "server-events"
+main = "dist/index.js"
+compatibility_date = "2022-10-11"
+
+kv_namespaces = [
+  { binding = "ITEMS_FORUM", id = "<KV_ID>" }
+]
